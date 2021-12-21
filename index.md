@@ -56,3 +56,10 @@ Medicaid or Medicaid Managed Care assistance services are generally provided at 
 To learn more about home and community-based services, visit: Medicaid.gov. You may also call your local office for more information
 #
 *Please note that not all Klarus locations offer personal care services. To verify services in your area, please contact your local office.
+# Address:
+```
+2764 Compass Dr, Suite 105
+Grand Junction, CO 81506
+```
+- O 970.644.5112
+- F 970.245.7481
