@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+[Home](https://klaruspersonalcare.com/)
+## Personal Care
 
-You can use the [editor on GitHub](https://github.com/KlarusPersonalCare/klarus-pages-site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Providing non-medical related personal care services if you experience limitations in performing daily activities.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#
 
-### Markdown
+![Screen-Shot-2020-11-03-at-1 25 43-PM-300x274](https://user-images.githubusercontent.com/77752302/147011712-b3a2b913-b349-46ea-981f-33de02079a10.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Klarus Personal care services are general non-medical related personal care services if you experience limitations in performing daily activities. These services are ordered by your doctor when you need them and are provided by a personal care attendant or a caregiver.
 
-```markdown
-Syntax highlighted code block
+# Personal Care Services May Include:
+- Personal care assistance
+- Homemaker
+- Light chores
+- Home maintenance
+- Respite care
+- Case management
+- Companionship
+- Escort
+- Sitter services in the hospital
 
-# Header 1
-## Header 2
-### Header 3
+#
+These programs provide services to both rural and urban citizens as an alternative to nursing facility care. Community care services may be considered for:
+- Medicaid beneficiaries
+- Low-income individuals
+- Veterans
+- Families that need support to care for a loved one
 
-- Bulleted
-- List
+#
+These services can be offered in your own home or community without the need to move to a facility or care home.*
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# Personal Care Services
 ```
+We offer personal care services in Colorado
+```
+The caregivers in our personal care offices offer experienced, dependable and compassionate care to give you tender care and professional assistance, which can help make life easier and promote independence. Families can have peace of mind knowing their loved ones are cared for.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+# Who Pays for Services?
+- State Medicaid program
+- Medicaid Managed Care Programs
+- STAR+PLUS
+- Amerigroup
+- Superior
+- Molina
+- HealthSpring/Cigna
+- United Healthcare
+- Department of Labor
+- Select Long-Term Care Insurance
+- Veterans Administration
+- Area Agency on Aging
+- Self-pay
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KlarusPersonalCare/klarus-pages-site/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# What Will I Owe?
+Medicaid or Medicaid Managed Care assistance services are generally provided at no cost to you. In some states, there is a “spend down” or a “deductible.”
+#
+To learn more about home and community-based services, visit: Medicaid.gov. You may also call your local office for more information
+#
+*Please note that not all Klarus locations offer personal care services. To verify services in your area, please contact your local office.
