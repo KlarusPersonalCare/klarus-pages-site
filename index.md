@@ -3,7 +3,6 @@
 
 Providing non-medical related personal care services if you experience limitations in performing daily activities.
 
-### 
 
 ![Screen-Shot-2020-11-03-at-1 25 43-PM-300x274](https://user-images.githubusercontent.com/77752302/147011712-b3a2b913-b349-46ea-981f-33de02079a10.png)
 
