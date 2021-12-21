@@ -1,3 +1,4 @@
+## Welcome to Klarus!
 [Home](https://klaruspersonalcare.com/)
 ## Personal Care
 
