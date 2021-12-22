@@ -1,5 +1,5 @@
 ## What We Do
-MENU: [Home](https://klaruspersonalcare.com/)
+MENU: [Welcome to Klarus!](https://klaruspersonalcare.com/)
 ## Personal Care
 
 Providing non-medical related personal care services if you experience limitations in performing daily activities.
